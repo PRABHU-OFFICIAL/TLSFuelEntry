@@ -1,0 +1,20 @@
+{
+  "expo": {
+    "name": "blank",
+    "slug": "blank",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "baf54eeb-3a37-4ce1-a8f0-93cefd0aabdc"
+      }
+    },
+    "android": {
+      "package": "com.tranzol.tlsfuelentry"
+    }
+  }
+}
