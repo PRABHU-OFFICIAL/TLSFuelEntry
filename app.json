@@ -14,7 +14,8 @@
       }
     },
     "android": {
-      "package": "com.tranzol.tlsfuelentry"
+      "package": "com.tranzol.tlsfuelentry",
+      "versionCode" : 1
     }
   }
 }
